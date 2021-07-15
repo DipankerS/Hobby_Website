@@ -1,0 +1,91 @@
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    /* Start Section 1 */
+    
+    section {
+        display: flex;
+        height: 700px;
+        background: rgb(0, 0, 0);
+        width: 100%;
+    }
+    
+    .head {
+        width: 55%;
+        margin-left: 50px;
+    }
+    
+    .img {
+        width: 45%;
+        margin-left: 200px;
+    }
+    
+    section h1,
+    h3 {
+        color: rgb(65, 154, 189);
+        font-family: 'Abril Fatface', cursive;
+    }
+    
+    section p {
+        color: rgb(255, 255, 255);
+        font-family: 'Courgette', cursive;
+    }
+    /* End Section 1 */
+    /* Start Section 2 */
+    
+    #sec2 {
+        display: flex;
+        height: 700px;
+        background: rgb(255, 255, 255);
+        width: 100%;
+    }
+    
+    .img {
+        width: 45%;
+    }
+    
+    .head2 {
+        width: 55%;
+    }
+    
+    #mvh {
+        color: rgb(0, 0, 0);
+    }
+    
+    #sec3 {
+        display: flex;
+        background: rgb(255, 255, 255);
+    }
+    
+    .small {
+        color: black;
+        font-family: 'Courgette', cursive;
+    }
+    
+    .club {
+        background-color: rgb(197, 240, 248);
+        border: 1px solid #ff02c0;
+        border-radius: 50px;
+        padding: 15px;
+        margin-left: 10px;
+        height: 300px;
+    }
+    
+    .game {
+        background-color: rgb(197, 240, 248);
+        border: 1px solid #ff02c0;
+        border-radius: 50px;
+        padding: 15px;
+        margin-left: 10px;
+        height: 300px;
+    }
+    
+    .edit {
+        background-color: rgb(197, 240, 248);
+        border: 1px solid #ff02c0;
+        border-radius: 50px;
+        padding: 15px;
+        margin-left: 10px;
+        height: 300px;
+    }
